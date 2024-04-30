@@ -47,5 +47,12 @@ Por mais que tudo esta dentro de um comentátio deixei o mais organizado possív
 
 # Tipos e Variáveis
 
+## Aula 1 
+
+introdução do que iremos aprender neste modulo
+
+## Aula 2 
+
+Configurando o ambiente e sincronizando com o GitHub, este passo já realizei e estou usando este repositório que inclusive já possui alguns commits
 
 ### OBS: Tudo estudado durante as aulas estou deixando comentado dentro do código com exemplos.
