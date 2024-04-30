@@ -20,7 +20,53 @@ public class MinhaClasse {
 		 * int longo = 1;
 		 */
 		
+		/* Declarando variáveis e métodos
+		 * Quando criamos uma variável sempre antes do nome vem o tipo da variável
+		 * 
+		  	exemplo de variáveis
+		 	String meuNome = "Vitor";
+		
+			int anoFabricacao = 2024;
+		
+			boolean verdadeira = false; // Sim ou não / verdadeira ou false
+		
+			anoFabricacao = 2018; // alterando o valor da variável
+			
+			
+			
+			
+		 * Métodos
+		  
+		  	// Estrutura
+
+			TipoRetorno NomeObjetivoNoInfinitivo Parametro(s)
+
+			//Exemplo
+
+			int somar (int numeroUm, int numero2)
+
+			String formatarCep (long cep) // parametros podem ter parametros diferentes dos tipos
+		 	
+		 	// Dentro da classe Main
+		 	 * 
+		 	 * 	String primeiroNome = "Vitor";
+				String segundoNome = "Mariano";
+		
+				String nomeCompleto = nomeCompleto(primeiroNome, segundoNome);
+				System.out.print(nomeCompleto);
+				
+			// Fora da classe Main
+			 * 
+			 *	 public static String nomeCompleto(String primeiroNome, String segundoNome){
+		
+				return "Resultado do método: " + primeiroNome.concat(" ").concat(segundoNome);
+				}
+			
+		 */
+		
 		
 	}
+	
+	
 	
 }
