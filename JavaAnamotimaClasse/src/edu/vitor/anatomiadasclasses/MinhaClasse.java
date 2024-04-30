@@ -110,5 +110,48 @@ public class MinhaClasse {
 		 * 
 		 * */
 		
+		
+		// SEXTA AULA
+		/* Java Beans
+		 * Iniciativa conceitual da  comunidade para que possamos ter uma estruturação de escrita, de como expressamos as nossa variaváveis, métodos, funções etc. Deixar o código mais claro e legivel possível
+		 * 
+		 * Aqui irei deixar sugestões de nomenclaturas
+		 * 
+		 * Para o Java Beans funcionar a variável precisa ser clara e evitar abreviações
+		 * Sempre preferir declarar nome de variáveis no singular e deixar o plural para quando for um array
+		 * 
+		 * Escrever em um idioma único evitar usar varios idiomas no mesmo programa
+		 * 
+		 * Exemplos de variáveis não recomendadas:
+		 * 
+		 * double salMedio = 1500.23 // Variável abreviada, dificulta a compreensão
+		 * String emails = "vitor@vitor.com" // Confuso pois eu não sei se é apenas um e-mail ou varios e-mail que serão definidos
+		 * String myName = "JOSEPH" // se o idioma é pt-BR, devo manter este idioma
+		 * 
+		 * 
+		 * Exemplos de viriáveis recomendadas
+		 * 
+		 * double salarioMedio = 1500.23;
+		 * String email = "vitor@vitor.com";
+		 * String [] emails = {"aluno@escola.com", "professor@escola"};
+		 * String meuNome = "JOSEPH";
+		 * 
+		 * 
+		 * Já os métodos o recomendado é nomear com um verbo e em camelCase
+		 * 
+		 * Exemplos sugeridos de métodos
+		 * 
+		 * somar(int n1, intn2 {}
+		 * 
+		 * abrirConexao(){}
+		 * 
+		 * concluirProcessamento(){}
+		 * 
+		 * findById(int id){} // não se assuste, você verá muito método em inglês em sua jornada // muitas bibliotecas definem seus metodos em inglês
+		 * 
+		 * calcularImprimir(){} // há algo de errado neste método, ele deveria ter uma única finalidade
+		 * 
+		 * */
+		
 	}
 }

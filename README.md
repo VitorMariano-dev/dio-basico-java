@@ -4,6 +4,8 @@ Repositório criado para armazenar e documentar todo o conteudo do Modulo de Jav
 
 Toda alteração será realizado via pull request e subirei via Git
 
+# Anatomia das Classes
+
 ## Primeira Aula
 
 Nesta primeira aula preparamos o ambiente de desenvolvimento e entendemos como que funciona o public class e imprimimos no console o primeiro "Hello word"
@@ -31,6 +33,19 @@ Nesta aula entedemos mais sobre organização de projeto como utilizar os packag
 Deixei comentado também alguns exemplos e criei dois pacotes com o seguinte padrão edu.vitor.anatomiadeclasse 
 
 edu de educação, meu nome, e o título da aula.
+
+## Sexta Aula
+Nessa ultima aula sobre Anatomia das Classes aprendi um pouco mais sobre o conceito Java Beans e absorvi algumas dicas e sugestões para manter uma arquitetura de código limpo. 
+
+Expliquei mais sobre o conceito nos comentários
+
+Todas as aulas eu separei por comentários dentro do arquivo MinhaClasse.java 
+
+Por mais que tudo esta dentro de um comentátio deixei o mais organizado possível para que no futuro eu consiga entrar e entender o que eu aprendi e o que eu quis dizer em cada aula
+
+##
+
+# Tipos e Variáveis
 
 
 ### OBS: Tudo estudado durante as aulas estou deixando comentado dentro do código com exemplos.
