@@ -1,3 +1,4 @@
+package edu.vitor.anatomiadasclasses;
 public class MinhaClasse {
 
 	public static void main (String [] args) {
@@ -96,7 +97,18 @@ public class MinhaClasse {
 		 *
 		 */
 		
-		
+		// QUINTA AULA
+		/*	Organizando arquivos
+		 * Organizar os arquivos em pacotes para deixar uma estrutura limpa do projeto e nisso temos algumas dicas para facilitar nossa organização
+		 * Exemplo de nome de packages (pacottes)
+		 * 
+		 * com.hypertech.notification.util //(com = comercio)
+		 * com.hypertech.notification.service
+		 * 
+		 * edu.vitor.logicaprogramacao // (edu = educação)
+		 * edu.vitor.organizandoarquivo
+		 * 
+		 * */
 		
 	}
 }

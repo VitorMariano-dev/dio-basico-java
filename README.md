@@ -24,5 +24,13 @@ Nesta aula entendomos sobre a identação e também sobre sua hierarquia, java n
 
 Ela serve para deixar o código mais bonito e mais legivel
 
+## Quinta Aula
+
+Nesta aula entedemos mais sobre organização de projeto como utilizar os packages (pacotes) para deixar uma estrutura bem facil de se localizar e "bonita"
+
+Deixei comentado também alguns exemplos e criei dois pacotes com o seguinte padrão edu.vitor.anatomiadeclasse 
+
+edu de educação, meu nome, e o título da aula.
+
 
 ### OBS: Tudo estudado durante as aulas estou deixando comentado dentro do código com exemplos.
