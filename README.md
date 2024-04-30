@@ -18,5 +18,11 @@ Nesta terceira aula entendemos a diferença de variáveis e de métodos, onde os
 
 Realizei testes e deixei os exemplos criados em aulas dentro dos comentários.
 
+## Quarta Aula
+
+Nesta aula entendomos sobre a identação e também sobre sua hierarquia, java não é uma linguagem onde a identação vai interferir diretamente no código, mas sim no programador pois sem a identação é bem mais complicado para entender o código. 
+
+Ela serve para deixar o código mais bonito e mais legivel
+
 
 ### OBS: Tudo estudado durante as aulas estou deixando comentado dentro do código com exemplos.
