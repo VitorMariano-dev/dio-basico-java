@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+D:\temp\ws-java-dio\JavaAnatomiaClasse\.metadata\.plugins\org.eclipse.jdt.core
