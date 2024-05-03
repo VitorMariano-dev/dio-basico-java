@@ -59,4 +59,9 @@ Configurando o ambiente e sincronizando com o GitHub, este passo já realizei e 
 
 Passamos a ver mais sobre os 8 tipos primitivos de variáveis e seus valores (capacidade  máxima de caracteres aceito) No arquivo tem alguns exemplos 
 
+## Aula 4
+
+Variáveis e constantes
+ Nesta aula aprendemos mais sobre a diferença entre variáveis e constantes e o uso da palavra reservada "Final"
+
 ### OBS: Tudo estudado durante as aulas estou deixando comentado dentro do código com exemplos.
