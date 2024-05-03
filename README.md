@@ -55,4 +55,8 @@ introdução do que iremos aprender neste modulo
 
 Configurando o ambiente e sincronizando com o GitHub, este passo já realizei e estou usando este repositório que inclusive já possui alguns commits
 
+## Aula 3
+
+Passamos a ver mais sobre os 8 tipos primitivos de variáveis e seus valores (capacidade  máxima de caracteres aceito) No arquivo tem alguns exemplos 
+
 ### OBS: Tudo estudado durante as aulas estou deixando comentado dentro do código com exemplos.
