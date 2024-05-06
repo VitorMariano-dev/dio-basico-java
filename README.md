@@ -84,4 +84,8 @@ Operadores Unários
 
 Vimos nesta aula como funcionam os operadores unários junto com alguns testes para ver como se comportam
 
+## Aula 4
+
+Incremento, decremento e negando variáveis, nesta aula continuamos o tópico iniciado na ultima aula e vimos um pouco mais sobre incremento e como eles funcionam no debug. Junto também vimos o operador de negação "!" e como ele se comporta também
+
 ### OBS: Tudo estudado durante as aulas estou deixando comentado dentro do código com exemplos.
