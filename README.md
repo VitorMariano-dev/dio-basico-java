@@ -88,4 +88,10 @@ Vimos nesta aula como funcionam os operadores unários junto com alguns testes p
 
 Incremento, decremento e negando variáveis, nesta aula continuamos o tópico iniciado na ultima aula e vimos um pouco mais sobre incremento e como eles funcionam no debug. Junto também vimos o operador de negação "!" e como ele se comporta também
 
+## Aula 5 
+
+Operador Ternário
+
+Só utilizamos o operador ternário em espressões booleanos pois ele vai atuar como se fosse um if/else
+
 ### OBS: Tudo estudado durante as aulas estou deixando comentado dentro do código com exemplos.
