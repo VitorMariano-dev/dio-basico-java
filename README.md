@@ -107,4 +107,10 @@ Operadores lógicos
 
 Usados para realizar comparações em expressões booleanas e expressões relacionais 
 
+# Métodos
+
+## Aula 1
+
+Nesta aula começamos a entender mais sobre os métodos, começando do básico apenas entendendo como nomear da maneira correta para fácil identificação tanto de quem esta desenvolvendo quanto de quem poderá pegar este corrigo para correção de algum bug ou melhoria na aplicação
+
 ### OBS: Tudo estudado durante as aulas estou deixando comentado dentro do código com exemplos.
