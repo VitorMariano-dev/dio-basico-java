@@ -72,4 +72,10 @@ Introdução
 
 Nesta aula foi mais a introdução do que será estudado neste modulo
 
+## Aula 2 
+
+Operadores de atribuição e aritméticos
+
+Vimos nesta aula o operador de atribuição que é o "=" e também alguns operadores aritméticos. Nesta aula vimos também um pouco de como funciona a concatenação de string com string e string com number
+
 ### OBS: Tudo estudado durante as aulas estou deixando comentado dentro do código com exemplos.
