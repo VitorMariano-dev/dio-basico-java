@@ -94,4 +94,11 @@ Operador Ternário
 
 Só utilizamos o operador ternário em espressões booleanos pois ele vai atuar como se fosse um if/else
 
+## Aula 6 
+
+Operadores relacionais
+
+Verificamos como funcionam os operadores relacionais ao comparar number com number e string com string (objetos)
+Vimos também que para comparar o conteudo dos objetos usamos o equals.
+
 ### OBS: Tudo estudado durante as aulas estou deixando comentado dentro do código com exemplos.
