@@ -101,4 +101,10 @@ Operadores relacionais
 Verificamos como funcionam os operadores relacionais ao comparar number com number e string com string (objetos)
 Vimos também que para comparar o conteudo dos objetos usamos o equals.
 
+## Aula 7 
+
+Operadores lógicos
+
+Usados para realizar comparações em expressões booleanas e expressões relacionais 
+
 ### OBS: Tudo estudado durante as aulas estou deixando comentado dentro do código com exemplos.
