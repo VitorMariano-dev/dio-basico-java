@@ -121,4 +121,8 @@ Neste exercicio criei dois arquivos .java um chamado Metodos2 e o outro chamado 
 
 No arquivo chamado usuario foi onde criei métodos onde simulam um Usuario ligando e desligando uma TV, ele aumentando e diminuindo o Volume e mudando de canal e no arquivo Metodos2 eu chamos esses métodos e printo no console o canal atual que o Usuario esta, es a TV esta ligada ou desligada e também o volume atual da TV
 
+# Escopo
+
+Entendemos o que é escopo dentro da linguagem Java e tivemos uma ilustração baseado em um código disponível pelo professor. 
+
 ### OBS: Tudo estudado durante as aulas estou deixando comentado dentro do código com exemplos.
