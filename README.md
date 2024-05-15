@@ -125,4 +125,8 @@ No arquivo chamado usuario foi onde criei métodos onde simulam um Usuario ligan
 
 Entendemos o que é escopo dentro da linguagem Java e tivemos uma ilustração baseado em um código disponível pelo professor. 
 
+# Palavras Reservadas
+
+Na linguagem Java existem 52 palavras reservadas dentro do arquivo .java coloquei elas em comentários e com suas utilizações e para que que elas servem
+
 ### OBS: Tudo estudado durante as aulas estou deixando comentado dentro do código com exemplos.
