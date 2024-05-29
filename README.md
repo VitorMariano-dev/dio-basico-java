@@ -129,4 +129,8 @@ Entendemos o que é escopo dentro da linguagem Java e tivemos uma ilustração b
 
 Na linguagem Java existem 52 palavras reservadas dentro do arquivo .java coloquei elas em comentários e com suas utilizações e para que que elas servem
 
+# Documentação Java
+
+Nesta aula entendi mais sobre como funcionam os comentários não só para deixar comentado o códico mas também para criar documentação em si. E lembrar sempre que comentários não subistituem as boas práticas, se precisamos de comentários para entender um método ou um bloco de código significa que nossos códigos não estão com o padrão Clean Code
+
 ### OBS: Tudo estudado durante as aulas estou deixando comentado dentro do código com exemplos.
